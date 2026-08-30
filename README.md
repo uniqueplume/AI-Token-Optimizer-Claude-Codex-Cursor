@@ -140,4 +140,3 @@ Focus: Git-aware code context compression / local repository workflow
 ## Disclaimer
 
 Independent project; not affiliated with Anthropic, OpenAI, Cursor, or other AI vendors. Provider pricing, context limits, caching and quotas may change.
-                                                                                                    
